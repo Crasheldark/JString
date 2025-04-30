@@ -29,3 +29,6 @@ console.log(cadena.startsWith("h"));
 
 //Comprueba si la cadena empieza por “H”.
 console.log(cadena.startsWith("H"));
+
+//Muestra Utilizando por TEMPLATE consola la STRINGS letra JAVASCRIPT “r” declara 10 veces.
+console.log(`Letra 'r' repetida 10 veces: ${"r".repeat(10)}`);
