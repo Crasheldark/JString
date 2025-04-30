@@ -19,3 +19,7 @@ console.log(cadena.indexOf("Hola"));
 //Reemplaza la cadena “Mundo” por la cadena “Youtube” y muestra el resultado.
 let nuevaCadena = cadena.replace("Mundo", "Youtube");
 console.log(nuevaCadena);
+
+//Extrae la segunda parte de la cadena y muéstrala por consola.
+let cadena2 = cadena.substring(5);
+console.log(cadena2);
