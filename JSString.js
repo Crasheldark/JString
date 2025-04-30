@@ -32,3 +32,9 @@ console.log(cadena.startsWith("H"));
 
 //Muestra Utilizando por TEMPLATE consola la STRINGS letra JAVASCRIPT “r” declara 10 veces.
 console.log(`Letra 'r' repetida 10 veces: ${"r".repeat(10)}`);
+
+//3 variables con tu nombre, apellidos y edad y muéstralas por consola introduciéndolas dentro de una cadena.
+let nombre = "Julio";
+let apellidos = "Carrasco";
+let edad = 22;
+console.log(`Mi nombre es ${nombre} ${apellidos} y tengo ${edad} años.`);
