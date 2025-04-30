@@ -9,3 +9,6 @@ console.log(cadena.toUpperCase());
 
 //Muestra por consola la cadena con todos sus caracteres en minúsculas.
 console.log(cadena.toLowerCase());
+
+//Muestra por consola la posición de la cadena en la que se encuentra la letra o.
+console.log(cadena.indexOf("o"));
