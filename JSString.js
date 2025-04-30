@@ -3,3 +3,6 @@ let cadena = "Hola Mundo";
 
 //Muestra por consola la longitud de la cadena.
 console.log(cadena.length);
+
+//Muestra por consola la cadena con todos sus caracteres en mayúsculas.
+console.log(cadena.toUpperCase());
