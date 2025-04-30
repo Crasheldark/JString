@@ -12,3 +12,6 @@ console.log(cadena.toLowerCase());
 
 //Muestra por consola la posición de la cadena en la que se encuentra la letra o.
 console.log(cadena.indexOf("o"));
+
+//Muestra por consola la posición de la cadena en la que se encuentra la cadena “Hola”.
+console.log(cadena.indexOf("Hola"));
