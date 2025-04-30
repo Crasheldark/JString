@@ -6,3 +6,6 @@ console.log(cadena.length);
 
 //Muestra por consola la cadena con todos sus caracteres en mayúsculas.
 console.log(cadena.toUpperCase());
+
+//Muestra por consola la cadena con todos sus caracteres en minúsculas.
+console.log(cadena.toLowerCase());
