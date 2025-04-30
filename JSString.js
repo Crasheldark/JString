@@ -26,3 +26,6 @@ console.log(cadena2);
 
 //Comprueba si la cadena empieza por “h”.
 console.log(cadena.startsWith("h"));
+
+//Comprueba si la cadena empieza por “H”.
+console.log(cadena.startsWith("H"));
