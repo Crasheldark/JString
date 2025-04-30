@@ -1,2 +1,5 @@
 //Declara una variable cuyo nombre sea cadena y tenga el valor “Hola Mundo”.
 let cadena = "Hola Mundo";
+
+//Muestra por consola la longitud de la cadena.
+console.log(cadena.length);
