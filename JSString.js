@@ -23,3 +23,6 @@ console.log(nuevaCadena);
 //Extrae la segunda parte de la cadena y muéstrala por consola.
 let cadena2 = cadena.substring(5);
 console.log(cadena2);
+
+//Comprueba si la cadena empieza por “h”.
+console.log(cadena.startsWith("h"));
